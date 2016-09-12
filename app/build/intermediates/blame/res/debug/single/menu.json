@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\birha\\Downloads\\UGo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_machine_list.xml",
+        "source": "C:\\Users\\birha\\Downloads\\UGo\\app\\src\\main\\res\\menu\\menu_machine_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\birha\\Downloads\\UGo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
+        "source": "C:\\Users\\birha\\Downloads\\UGo\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\birha\\Downloads\\UGo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_itemlist.xml",
+        "source": "C:\\Users\\birha\\Downloads\\UGo\\app\\src\\main\\res\\menu\\menu_itemlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\birha\\Downloads\\UGo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_home_drawer.xml",
+        "source": "C:\\Users\\birha\\Downloads\\UGo\\app\\src\\main\\res\\menu\\activity_home_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\birha\\Downloads\\UGo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_nutrition_fact.xml",
+        "source": "C:\\Users\\birha\\Downloads\\UGo\\app\\src\\main\\res\\menu\\menu_nutrition_fact.xml"
+    },
+    {
+        "merged": "C:\\Users\\birha\\Downloads\\UGo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_terms.xml",
+        "source": "C:\\Users\\birha\\Downloads\\UGo\\app\\src\\main\\res\\menu\\menu_terms.xml"
+    }
+]
